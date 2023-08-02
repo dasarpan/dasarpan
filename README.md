@@ -8,7 +8,7 @@ I started with C++, have done projects in Java, and primarily work in Python on 
 
 ## Projects  
 Some projects that I’ve worked on [with descriptions for each](https://docs.google.com/document/d/1tiO9VNJnzk5MMeoseZquY09xkX3WCup_iVlFj_uXJ04/edit?usp=sharing):
-- Twitter Political Sentiment | [Code](https://github.com/dasarpan/twitter-politics) | [Paper](https://drive.google.com/file/d/1o_gMLjgAS-107HgkEQ1nHS_lG-7Njo-c/view?usp=sharing) | [Poster](https://drive.google.com/file/d/1wyXsddB1xWIoAJI-MYr-EIdbPB3IASzt/view?usp=sharing)
+- Twitter Political Sentiment Analysis | [Code](https://github.com/dasarpan/twitter-politics) | [Paper](https://drive.google.com/file/d/1o_gMLjgAS-107HgkEQ1nHS_lG-7Njo-c/view?usp=sharing) | [Poster](https://drive.google.com/file/d/1wyXsddB1xWIoAJI-MYr-EIdbPB3IASzt/view?usp=sharing)
 - COVID-19 and Opioid Epidemic Analysis | [Code](https://github.com/AM-Mahon/data-mining-semester-project) | [Paper](https://drive.google.com/file/d/1oiR3vViMI5DHKgGnt_VbdRd5pf9-1w-j/view?usp=sharing)
 - Beethoven Music Generation | [Paper](https://drive.google.com/file/d/1kQYFzn7OsevXa8bOu0RudxZ9vxEB1ERA/view?usp=sharing) | [Music Output 1](https://drive.google.com/file/d/1UwygcvSTYQ2oHXU4KoeTRDXN-QLEFeHz/view?usp=sharing) | [Music Output 2](https://drive.google.com/file/d/1GnTCfrgB3FMfaaTIWKPjQyMmI_vsduJ7/view?usp=sharing)
 - Spotify Trend Analysis and App | [Code](https://github.com/shaily29-eng/BDA-project) | [Paper](https://drive.google.com/file/d/1zT2dNtMtHvSKwYmqNgJzGXkozJMxDBYA/view?usp=sharing)
