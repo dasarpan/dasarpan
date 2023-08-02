@@ -14,9 +14,10 @@ Some projects that I’ve worked on [with descriptions for each](https://docs.go
 - Spotify Trend Analysis and App | [Code](https://github.com/shaily29-eng/BDA-project) | [Paper](https://drive.google.com/file/d/1zT2dNtMtHvSKwYmqNgJzGXkozJMxDBYA/view?usp=sharing)
 - Fridge Recipe Helper App | [Documentation](https://drive.google.com/file/d/1fjvFkmfckxD6aB11DCY-FBowTXhdesV6/view?usp=sharing)
 
-- 🔭 I’m currently working on a website that can teach introductory programming in Python.
-- 🤔 I’m looking for help finding a software engineering job.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/das-arpan)
+
+🔭 I’m currently working on a website that can teach introductory programming in Python.  
+🤔 I’m looking for help finding a software engineering job.  
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/das-arpan)  
 
 
 <!--
