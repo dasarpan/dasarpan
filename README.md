@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I’m a software developer with an MS in Computer Science (Data Science Engineering Track), ME in Engineering Management, and BS in Computer Engineering. 🎓  
+
+I started with C++, and have done projects in Java, but primarily work in Python on projects that involve machine learning in some way. 🖥️  
+
+
+- 🔭 I’m currently working on a website that can teach introductory programming in Python.  
+
 <!--
 **dasarpan/dasarpan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
