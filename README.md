@@ -19,4 +19,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Useful links to help flesh this out later:
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+https://dev.to/github/10-standout-github-profile-readmes-h2o
+https://github.com/coderjojo/creative-profile-readme
 -->
