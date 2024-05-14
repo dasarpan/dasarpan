@@ -16,7 +16,7 @@ Some projects that I’ve worked on [with descriptions for each](https://docs.go
 
 
 🔭 I’m currently working on a website that can teach introductory programming in Python.  
-🤔 I’m looking for help finding a software engineering job.  
+🤔 I’m currently working as a full stack dev @ AFS
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/das-arpan)  
 
 
