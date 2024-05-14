@@ -1,6 +1,6 @@
 # Hello everyone! 👋
 
-My name is Arpan Das, and I’m looking for work as a software developer.
+My name is Arpan Das, and I work as a full stack dev!
 
 I have an MS in Computer Science (Data Science Engineering Track), ME in Engineering Management, and BS in Computer Engineering. 🎓  
 
@@ -16,7 +16,7 @@ Some projects that I’ve worked on [with descriptions for each](https://docs.go
 
 
 🔭 I’m currently working on a website that can teach introductory programming in Python.  
-🤔 I’m currently working as a full stack dev @ AFS
+🤔 I’m currently working as a full stack dev @ AFS  
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/das-arpan)  
 
 
